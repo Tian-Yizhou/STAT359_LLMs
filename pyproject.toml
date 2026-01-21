@@ -1,9 +1,9 @@
 [tool.poetry]
-name = "stat359_su25"
+name = "STAT359_LLMs"
 version = "0.1.0"
 description = ""
 package-mode = false
-authors = ["Your Name <you@example.com>"]
+authors = ["Yizhou Tian <yizhou.tian01@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

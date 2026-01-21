@@ -17,7 +17,7 @@ name = "accelerate"
 version = "1.8.0"
 description = "Accelerate"
 optional = false
-python-versions = ">=3.9.0"
+python-versions = ">=3.12.0"
 groups = ["main"]
 files = [
     {file = "accelerate-1.8.0-py3-none-any.whl", hash = "sha256:4c3460a8052e122fb124d92ec15618229951febbef1d7336a4c35371f78b72a1"},
